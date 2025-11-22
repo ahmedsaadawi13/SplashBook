@@ -32,7 +32,7 @@ A complete, modern appointment booking platform for service-based businesses bui
 ### 1. Clone or Download
 
 ```bash
-git clone https://github.com/yourusername/splashbook.git
+git clone https://github.com/ahmedsaadawi13/splashbook.git
 cd splashbook
 ```
 

@@ -1,0 +1,28 @@
+# FILE: /.gitignore
+
+# Environment
+.env
+
+# Uploads (keep directory structure but ignore files)
+storage/uploads/*
+!storage/uploads/.gitkeep
+!storage/uploads/logos/
+!storage/uploads/images/
+!storage/uploads/documents/
+
+# Vendor (if using composer)
+/vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
